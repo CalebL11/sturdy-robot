@@ -186,10 +186,10 @@
               <h3>Poland</h3>
             </div>
             <div id="gallery">
-              <img src="https://pixabay.com/photos/sunrise-boat-rowing-boat-nobody-1014712/" width="825"height="500">
-              <img src="pixabay.com/photos/beach-sea-ocean-tropical-1236581/" width="825"height="500">
-              <img src="https://pixabay.com/photos/maldives-tropics-tropical-1993704/" width="825"height="500">
-              <img src="https://pixabay.com/photos/mountains-alps-alpine-snow-sunset-8040139/" width="825"height="500">
+              <img src="https://pixabay.com/photos/sunrise-boat-rowing-boat-nobody-1014712/" width=825 height=500>
+              <img src="pixabay.com/photos/beach-sea-ocean-tropical-1236581/" width=825 height=500>
+              <img src="https://pixabay.com/photos/maldives-tropics-tropical-1993704/" width=825 height=500>
+              <img src="https://pixabay.com/photos/mountains-alps-alpine-snow-sunset-8040139/" width=825 height=500>
 
 
             </div>

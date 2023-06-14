@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 
 <html lang="en" dir="ltr">
   <head>
@@ -29,9 +30,9 @@
 
 
     <h1>Paragraphs</h1>
-    <!DOCTYPE html>
 
-    <html>
+
+
     <p>
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -102,7 +103,7 @@
     			<li>.........90000000000000 item</li>
     		</ul>
     		<h1>lesson 6</h1>
-    		html>
+
     			<head>
     				<title>Lesson 6</title>
 
@@ -147,9 +148,10 @@
           <html>
 
 
-          <body>
+
 
           <a href = "https://google.com"> LINKKKKYYYYYY click here  </a>
+
 
           <h1>lesson 8</h1>
 
@@ -191,7 +193,7 @@
 
 
             </div>
-            
+
     	</body>
 
 
@@ -199,6 +201,5 @@
 
 
     </html>
-
 
 </html>

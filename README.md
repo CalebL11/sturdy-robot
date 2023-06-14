@@ -7,8 +7,6 @@
   </head>
   <body>
 
-    <html>
-
     <h1>lesson 1</h1>
 
     <h1>Heading1</h1>

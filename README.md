@@ -151,14 +151,47 @@
 
           <a href = "https://google.com"> LINKKKKYYYYYY click here  </a>
 
-          </body>
+          <h1>lesson 8</h1>
+
+          <header>
+              <h1>Divs and ids</h1>
+          </header>
+
+            <div id="first section">
+              <p></p>
+              <p></p>
+            </div>
+
+            <div id="links">
+              <a href="https://google.com ">this is a link</a>
+            </div>
+            <footer>
+              <p>goodbye</p>
+            </footer>
+
+            <h1>lesson 9</h1>
+            <h1>My travels</h1>
+
+            <nav>
+              <h2>Menu</h2>
+              <a href="#destonations">destonations</a>
+              <a href="#gallery"></a>
+            </nav>
+            <div id="destonations">
+              <h3>Macedonia</h3>
+              <h3>Germany</h3>
+              <h3>Turkey</h3>
+              <h3>Poland</h3>
+            </div>
+            <div id="gallery">
+              <img src="https://pixabay.com/photos/sunrise-boat-rowing-boat-nobody-1014712/" width="825"height="500">
+              <img src="pixabay.com/photos/beach-sea-ocean-tropical-1236581/" width="825"height="500">
+              <img src="https://pixabay.com/photos/maldives-tropics-tropical-1993704/" width="825"height="500">
+              <img src="https://pixabay.com/photos/mountains-alps-alpine-snow-sunset-8040139/" width="825"height="500">
 
 
-
-          </html>
-
-    		</html>
-
+            </div>
+            
     	</body>
 
 
@@ -167,5 +200,5 @@
 
     </html>
 
-   
+
 </html>

@@ -31,7 +31,7 @@
     <h1>Paragraphs</h1>
     <!DOCTYPE html>
 
-    <html>
+  
     <p>
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

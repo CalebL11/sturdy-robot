@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -24,6 +24,5 @@
     <h6>Heading6</h6>
 
 
-    </html
-  </body>
+   </body>
 </html>

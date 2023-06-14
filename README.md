@@ -29,7 +29,7 @@
 
 
     <h1>Paragraphs</h1>
-    <!DOCTYPE html>
+ 
 
   
     <p>
@@ -102,7 +102,7 @@
     			<li>.........90000000000000 item</li>
     		</ul>
     		<h1>lesson 6</h1>
-    		html>
+    	
     			<head>
     				<title>Lesson 6</title>
 

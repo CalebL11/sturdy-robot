@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -6,8 +6,6 @@
 
   </head>
   <body>
-
-    <html>
 
     <h1>lesson 1</h1>
 
@@ -169,6 +167,5 @@
 
     </html>
 
-    </html
-  </body>
+   
 </html>

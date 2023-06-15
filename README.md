@@ -191,9 +191,7 @@
               <img src="https://pixabay.com/photos/maldives-tropics-tropical-1993704/" width=825 height=500>
               <img src="https://pixabay.com/photos/mountains-alps-alpine-snow-sunset-8040139/" width=825 height=500>
 
-              <a href="https://google.com"><img src="https://pixabay.com/photos/island-ocean-sea-lagoon-beach-3542290/" alt=""></a>
-
-              <a href="google.com"><img src="https://pixabay.com/photos/island-ocean-sea-lagoon-beach-3542290/" alt="google"></a>
+              <a href="https://google.com"><img src="https://pixabay.com/photos/island-ocean-sea-lagoon-beach-3542290/" alt="google"
 
 
             </div>
